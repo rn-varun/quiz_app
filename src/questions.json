@@ -90,12 +90,12 @@
     },
 
     {
-        "question": "What’s the most important book in the Moslem religion?",
-        "optionA": "The Koran",
+        "question": "What’s the most important book in the Muslim religion?",
+        "optionA": "The Quran",
         "optionB": "The Dictionary",
         "optionC": "The Bible",
         "optionD": "The Chemistry text Book",
-        "answer": "The Koran"
+        "answer": "The Quran"
     },
 
     {
